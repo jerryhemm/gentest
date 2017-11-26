@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511704143 source:e:\development\cpp\tests\cb1\gentest\main.cpp
+	<iostream>
+	<string>
+	"funcs.h"
+
+1511704348 e:\development\cpp\tests\cb1\gentest\funcs.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
